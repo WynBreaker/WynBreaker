@@ -19,9 +19,11 @@ I have developed a strong foundation in **Networking**, **Defensive Security**, 
 ## 🧩 Certifications
 | Certification | Status |
 |----------------|---------|
-| CompTIA A+ | 🟢 In Progress |
+| CompTIA A+ | ✅ Achieved |
 | CompTIA Network+ | 🟢 In Progress |
-| CompTIA Security+ | 🔜 Planned |
+| CompTIA Security+ | 🟢 In Progress |
+| CompTIA CySA+ | 🔜 Planned |
+| Splunk Power User | 🔜 Planned |
 | DevSecOps Training | ✅ Completed |
 
 ---
@@ -57,9 +59,9 @@ With a background in **Accounting and Finance**, I bring analytical thinking, ri
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn] 
-- 🔗 [TryHackMe Profile](https://tryhackme.com/p/J0ller)  
-- 💻 [GitHub](https://github.com/J0ller)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrew-myint-cu/)  
+- 🔗 [TryHackMe Profile](https://tryhackme.com/p/WynBreaker)  
+- 💻 [GitHub](https://github.com/WynBreaker)
 
 ---
 
