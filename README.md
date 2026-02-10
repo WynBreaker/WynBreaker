@@ -39,7 +39,6 @@ Here’s a glimpse into the work I’m documenting:
 |-------------|-------------|
 | [Aplus-Labs](https://github.com/yourusername/Aplus-Labs) | Hands-on labs covering hardware, troubleshooting, and OS fundamentals |
 | [Networkplus-Labs](https://github.com/yourusername/Networkplus-Labs) | Networking experiments, subnetting, and configuration practice |
-| [Securityplus-Labs](https://github.com/yourusername/Securityplus-Labs) | Security concepts, firewall rules, and threat mitigation exercises |
 | [TryHackMe-Writeups](https://github.com/WynBreaker/TryHackMe-Writeups) | My notes and reflections from cybersecurity practice rooms |
 
 ---
