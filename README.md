@@ -1,30 +1,34 @@
 # 👋 Hi, I'm WynBreaker
 
 I'm an **Accounting & Finance graduate pivoting into IT and Cybersecurity**.  
-Currently, I’m working toward my **CompTIA A+, Network+, and Security+ certifications**, building hands-on labs, and documenting my learning process along the way.  
+Currently, I’m working toward my **SC-200 certification**, building hands-on labs, and documenting my learning process along the way.  
 
-I have developed a strong foundation in **Networking**, **Defensive Security**, and **Offensive Security**, and have completed **DevSecOps** training to understand secure software development practices.
+I have developed a strong foundation in **IT Operations**, **Networking**, **Defensive Security**, and **Offensive Security**, and have completed **DevSecOps** training to understand secure software development practices.
 
 ---
 
 ## 🧠 Current Focus
-- Strengthening core IT fundamentals (hardware, OS, and networking)  
-- Exploring **Defensive Security (Blue Team)** and **Offensive Security (Red Team)** techniques  
-- Building and securing home labs using VirtualBox, pfSense, and Linux  
+- Specializing in Security Operations (SOC / Blue Team) with a focus on detection, response, and threat hunting
+- Gaining hands-on experience with Microsoft Azure security tools (Defender, Sentinel, Entra ID, KQL)
+- Preparing for SC-200 (Microsoft Security Operations Analyst) certification
 - Enhancing automation and security awareness through **DevSecOps principles**  
-- Preparing for CompTIA Security+ certification  
+- Running SOC lab simulations (SIEM, incident response, log analysis, alert triage)
+- Practicing with Splunk and Elastic Stack (ELK) through hands-on labs (TryHackMe)
+- Light exposure to offensive techniques for defensive understanding
 
 ---
 
 ## 🧩 Certifications
 | Certification | Status |
 |----------------|---------|
+| DevSecOps Training | ✅ Achieved |
 | CompTIA A+ | ✅ Achieved |
-| CompTIA Network+ | 🟢 In Progress |
-| CompTIA Security+ | 🟢 In Progress |
+| CompTIA Network+ | ✅ Achieved |
+| CompTIA Security+ | ✅ Achieved |
+| SC-200 (Microsoft Certified: Security Operations Analyst Associate) | 🔜 In Progess |
 | CompTIA CySA+ | 🔜 Planned |
-| Splunk Power User | 🔜 Planned |
-| DevSecOps Training | ✅ Completed |
+
+
 
 ---
 
@@ -36,20 +40,21 @@ Here’s a glimpse into the work I’m documenting:
 | [Aplus-Labs](https://github.com/yourusername/Aplus-Labs) | Hands-on labs covering hardware, troubleshooting, and OS fundamentals |
 | [Networkplus-Labs](https://github.com/yourusername/Networkplus-Labs) | Networking experiments, subnetting, and configuration practice |
 | [Securityplus-Labs](https://github.com/yourusername/Securityplus-Labs) | Security concepts, firewall rules, and threat mitigation exercises |
-| [TryHackMe-Writeups](https://github.com/yourusername/TryHackMe-Writeups) | My notes and reflections from cybersecurity practice rooms |
-| [DevSecOps-Labs](https://github.com/yourusername/DevSecOps-Labs) | Secure CI/CD pipeline experiments and automation scripts |
+| [TryHackMe-Writeups](https://github.com/WynBreaker/TryHackMe-Writeups) | My notes and reflections from cybersecurity practice rooms |
 
 ---
 
 ## 🧰 Tools & Technologies
-- VirtualBox / VMware  
-- Windows & Linux  
-- Cisco Packet Tracer  
-- Wireshark  
-- pfSense Firewall  
-- TryHackMe / HackTheBox  
-- Git / GitHub  
-- DevSecOps tools (Docker, Jenkins, SonarQube)  
+- Microsoft Azure (Entra ID, Defender for Cloud, Sentinel)
+- OS: Windows & Linux  
+- SIEM: Microsoft Sentinel, Splunk, Elastic Stack (ELK)
+- Protocol Analyzer: Wireshark, TCPDump
+- Endpoint & Identity Security: Microsoft Defender, MFA, RBAC
+- SOC Labs & Platforms: TryHackMe
+- Version Control & Automation: Git / GitHub, PowerShell
+- DevSecOps tools: Docker, Jenkins
+- Threat Intelligence: MITRE ATT&CK, VirusTotal, AbuseIPDB
+- Log Analysis: KQL, Windows Event Logs, Sysmon
 
 ---
 
