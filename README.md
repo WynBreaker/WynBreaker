@@ -37,8 +37,7 @@ Here’s a glimpse into the work I’m documenting:
 
 | Repository | Description |
 |-------------|-------------|
-| [Aplus-Labs](https://github.com/yourusername/Aplus-Labs) | Hands-on labs covering hardware, troubleshooting, and OS fundamentals |
-| [Networkplus-Labs](https://github.com/yourusername/Networkplus-Labs) | Networking experiments, subnetting, and configuration practice |
+| [SOC-Simulations](https://github.com/WynBreaker/SOC-Simulations) | Hands-on SIEM experience with TryHackMe's SOC Simulator |
 | [TryHackMe-Writeups](https://github.com/WynBreaker/TryHackMe-Writeups) | My notes and reflections from cybersecurity practice rooms |
 
 ---
